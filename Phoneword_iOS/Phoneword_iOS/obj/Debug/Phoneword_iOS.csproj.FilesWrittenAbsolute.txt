@@ -1,0 +1,5 @@
+/Users/developer/Documents/Phoneword_iOS/Phoneword_iOS/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile259.AssemblyAttribute.cs
+/Users/developer/Documents/Phoneword_iOS/Phoneword_iOS/bin/Debug/Phoneword_iOS.dll.mdb
+/Users/developer/Documents/Phoneword_iOS/Phoneword_iOS/bin/Debug/Phoneword_iOS.dll
+/Users/developer/Documents/Phoneword_iOS/Phoneword_iOS/obj/Debug/Phoneword_iOS.dll
+/Users/developer/Documents/Phoneword_iOS/Phoneword_iOS/obj/Debug/Phoneword_iOS.dll.mdb

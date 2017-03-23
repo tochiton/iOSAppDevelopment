@@ -1,0 +1,11 @@
+/Users/developer/Documents/Phoneword_iOS/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/developer/Documents/Phoneword_iOS/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/developer/Documents/Phoneword_iOS/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/developer/Documents/Phoneword_iOS/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/developer/Documents/Phoneword_iOS/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/developer/Documents/Phoneword_iOS/iOS/bin/iPhoneSimulator/Debug/Phoneword_iOS.iOS.exe.mdb
+/Users/developer/Documents/Phoneword_iOS/iOS/bin/iPhoneSimulator/Debug/Phoneword_iOS.iOS.exe
+/Users/developer/Documents/Phoneword_iOS/iOS/obj/iPhoneSimulator/Debug/Phoneword_iOS.iOS.exe
+/Users/developer/Documents/Phoneword_iOS/iOS/obj/iPhoneSimulator/Debug/Phoneword_iOS.iOS.exe.mdb
+/Users/developer/Documents/Phoneword_iOS/iOS/bin/iPhoneSimulator/Debug/Phoneword_iOS.dll
+/Users/developer/Documents/Phoneword_iOS/iOS/bin/iPhoneSimulator/Debug/Phoneword_iOS.dll.mdb

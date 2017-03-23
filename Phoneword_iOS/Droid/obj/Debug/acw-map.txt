@@ -1,0 +1,4 @@
+Phoneword_iOS.Droid.MainActivity, Phoneword_iOS.Droid;md5fdd86e5f9d434ae48fe3d589152ba8e0.MainActivity
+Phoneword_iOS.Droid.MainActivity, Phoneword_iOS.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5fdd86e5f9d434ae48fe3d589152ba8e0.MainActivity
+Phoneword_iOS.Droid.MainActivity;md5fdd86e5f9d434ae48fe3d589152ba8e0.MainActivity
+phoneword_ios.droid.MainActivity;md5fdd86e5f9d434ae48fe3d589152ba8e0.MainActivity

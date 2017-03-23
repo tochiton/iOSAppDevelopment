@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{C4B08A4B-7F97-4B2A-BEB7-E4B7CF0F74F9}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="iOS/PhoneTranslator.cs" Line="79" Column="2" />
+      <File FileName="iOS/ViewController.cs" Line="54" Column="1" />
+      <File FileName="iOS/Info.plist" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Phoneword__iOS.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.ItemProperties.Phoneword__iOS.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.5F77AFD8-349F-4CBC-9B1D-503E4B6F38CB" />
+</Properties>
